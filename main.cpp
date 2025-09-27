@@ -5,8 +5,8 @@
 using MathUtils::add, MathUtils::multiply, AdvancedMath::square, std::cout, std::endl;
 
 int main(void) {
-	int a = 5;
-	int b = 7;
+	int a = 3;
+	int b = 4;
 
 	cout << "a + b = " << add(a,b) << endl;
 	cout << "a * b = " << multiply(a,b) << endl;
